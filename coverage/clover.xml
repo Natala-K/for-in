@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1722080052217" clover="3.2.0">
-  <project timestamp="1722080052217" name="All files">
-    <metrics statements="10" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="15" coveredelements="15" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+<coverage generated="1722103185211" clover="3.2.0">
+  <project timestamp="1722103185211" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="14" coveredelements="14" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
     <file name="orderByProps.js" path="C:\Users\kolmy\OneDrive\Рабочий стол\for-in\src\orderByProps.js">
-      <metrics statements="10" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
       <line num="2" count="3" type="stmt"/>
       <line num="3" count="3" type="stmt"/>
-      <line num="6" count="3" type="stmt"/>
-      <line num="7" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="8" count="2" type="stmt"/>
-      <line num="13" count="3" type="stmt"/>
-      <line num="16" count="3" type="stmt"/>
-      <line num="17" count="15" type="cond" truecount="2" falsecount="0"/>
-      <line num="18" count="13" type="stmt"/>
-      <line num="22" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="9" count="13" type="stmt"/>
+      <line num="13" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="3" type="stmt"/>
     </file>
   </project>
 </coverage>
