@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1722080052217" clover="3.2.0">
+  <project timestamp="1722080052217" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="15" coveredelements="15" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="orderByProps.js" path="C:\Users\kolmy\OneDrive\Рабочий стол\for-in\src\orderByProps.js">
+      <metrics statements="10" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="17" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="13" type="stmt"/>
+      <line num="22" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
